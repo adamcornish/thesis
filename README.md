@@ -1,3 +1,5 @@
 # thesis
 
-New
+# TODO
+
+Get new things done
