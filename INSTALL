@@ -1,0 +1,7 @@
+Basic Installation
+==================
+
+To build and install this junk, 'cd' to the c_work directory and type the 
+following commands:
+
+    make
